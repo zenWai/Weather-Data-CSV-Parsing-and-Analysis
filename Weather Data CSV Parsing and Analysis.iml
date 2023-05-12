@@ -6,9 +6,6 @@
       <sourceFolder url="file://$MODULE_DIR$/Data" type="java-resource" />
       <sourceFolder url="file://$MODULE_DIR$/Data/WeatherData" type="java-resource" />
       <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/src/lib" type="java-resource" />
-      <sourceFolder url="file://$MODULE_DIR$/src/lib/csv" type="java-resource" />
-      <sourceFolder url="file://$MODULE_DIR$/src/lib/duke" type="java-resource" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
